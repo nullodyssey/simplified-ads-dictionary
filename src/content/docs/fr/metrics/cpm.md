@@ -6,7 +6,21 @@ description: Comprendre le CPM dans Google Ads
 ## CPM (Cost Per Mille)
 
 ### Définition
-Coût pour mille impressions (affichages) d'une annonce.
+Coût pour mille [impressions](/fr/metrics/impression) (affichages) d'une annonce.
+
+### Formule
+```
+CPM = (Dépenses Publicitaires Totales ÷ Impressions) × 1 000
+```
 
 ### Exemple
 Un CPM de 4€ signifie que 1 000 vues coûtent 4€.
+
+> [!TIP]
+> Le CPM est plus pertinent pour les campagnes de notoriété de marque. Des CPM plus bas permettent une portée plus large avec le même budget.
+
+> [!NOTE]
+> Les enchères CPM se concentrent sur les impressions, pas sur les clics ou les conversions. Idéal pour la notoriété plutôt que pour les objectifs de réponse directe.
+
+### Termes liés
+[Impression](/fr/metrics/impression) | [CPC](/fr/metrics/cpc) | [Réseau Display](/fr/formats-networks/display-network) | [CTR](/fr/metrics/ctr)

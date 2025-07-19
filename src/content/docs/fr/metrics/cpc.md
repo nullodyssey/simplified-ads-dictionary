@@ -8,8 +8,19 @@ description: Comprendre le CPC dans Google Ads
 ### Définition
 Coût moyen payé pour un clic sur une annonce.
 
+### Formule
+```
+CPC = Coût Total ÷ Nombre de Clics
+```
+
 ### Exemple
 100 clics coûtent 50€, le CPC = 0,50€.
+
+> [!TIP]
+> Un CPC plus faible signifie généralement des dépenses publicitaires plus efficaces, mais doit être équilibré avec la qualité des conversions.
+
+> [!WARNING]
+> Un CPC très bas peut indiquer un mauvais ciblage publicitaire ou un trafic de faible qualité qui ne convertit pas.
 
 ### Termes liés
 [CPC max](/fr/bidding-budget/cpc-max) | [eCPC](/fr/bidding-budget/ecpc) | [CTR](/fr/metrics/ctr) | [CPA](/fr/metrics/cpa)

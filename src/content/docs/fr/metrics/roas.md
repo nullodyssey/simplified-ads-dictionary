@@ -8,5 +8,19 @@ description: Comprendre le ROAS dans Google Ads
 ### Définition
 Retour sur les dépenses publicitaires.
 
+### Formule
+```
+ROAS = Revenus des Annonces ÷ Coût des Annonces
+```
+
 ### Exemple
 100€ investis → 500€ de ventes → ROAS = 5.
+
+> [!TIP]
+> Un ROAS de 4:1 ou plus est généralement considéré comme bon, mais cela varie selon l'industrie et les marges bénéficiaires.
+
+> [!NOTE]
+> Le ROAS se concentre sur le chiffre d'affaires, pas sur le profit. Considérez vos marges bénéficiaires lors de l'évaluation des performances ROAS.
+
+### Termes liés
+[CPA](/fr/metrics/cpa) | [Conversion](/fr/metrics/conversion) | [Smart Bidding](/fr/automation/smart-bidding) | [Performance Max](/fr/automation/performance-max)
