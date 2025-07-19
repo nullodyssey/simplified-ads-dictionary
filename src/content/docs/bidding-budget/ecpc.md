@@ -4,5 +4,7 @@ description: Understanding Enhanced CPC in Google Ads
 ---
 
 ## eCPC (Enhanced CPC)
-**Definition**: CPC automatically adjusted to maximize conversions.  
-**Example**: Google slightly increases or decreases your CPC.
+**Definition**: [CPC](/metrics/cpc) automatically adjusted to maximize [conversions](/metrics/conversion).  
+**Example**: Google slightly increases or decreases your [CPC](/metrics/cpc).
+
+**Related Terms**: [CPC](/metrics/cpc) | [Max CPC](/bidding-budget/cpc-max) | [Smart Bidding](/automation/smart-bidding) | [Conversion](/metrics/conversion)
