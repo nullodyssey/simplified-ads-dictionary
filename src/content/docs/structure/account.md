@@ -3,7 +3,7 @@ title: Structure - Account
 description: Understanding Google Ads account structure
 ---
 
-## Compte (Account)
+## Account
 
 ### Definition
 Highest level in Google Ads, grouping all campaigns.

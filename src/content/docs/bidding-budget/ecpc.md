@@ -3,7 +3,7 @@ title: Bidding & Budget - Enhanced CPC
 description: Understanding Enhanced CPC in Google Ads
 ---
 
-## eCPC (Enhanced CPC)
+## Enhanced CPC
 
 ### Definition
 [CPC](/metrics/cpc) automatically adjusted to maximize [conversions](/metrics/conversion).

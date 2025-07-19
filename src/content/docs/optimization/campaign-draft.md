@@ -3,7 +3,7 @@ title: Optimization - Campaign Draft
 description: Understanding campaign drafts in Google Ads
 ---
 
-## Brouillon de campagne (Campaign Draft)
+## Campaign Draft
 
 ### Definition
 Copy of existing campaign used to test modifications.

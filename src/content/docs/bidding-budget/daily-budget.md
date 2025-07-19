@@ -3,7 +3,7 @@ title: Bidding & Budget - Daily Budget
 description: Understanding daily budget in Google Ads campaigns
 ---
 
-## Budget quotidien (Daily Budget)
+## Daily Budget
 
 ### Definition
 Average amount spent per day for a campaign.

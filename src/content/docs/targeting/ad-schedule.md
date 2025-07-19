@@ -3,7 +3,7 @@ title: Targeting - Ad Schedule
 description: Understanding ad scheduling in Google Ads
 ---
 
-## Calendrier de diffusion (Ad Schedule)
+## Ad Schedule
 
 ### Definition
 Allows programming when your ads will be shown.

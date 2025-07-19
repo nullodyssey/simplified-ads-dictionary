@@ -3,7 +3,7 @@ title: Bidding & Budget - Cost Per View (CPV)
 description: Understanding CPV in Google Ads video campaigns
 ---
 
-## CPV (Cost Per View)
+## Cost Per View
 
 ### Definition
 Cost paid for a video ad view.

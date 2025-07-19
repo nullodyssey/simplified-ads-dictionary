@@ -3,7 +3,7 @@ title: Automation - Machine Learning
 description: Understanding machine learning in Google Ads
 ---
 
-## Apprentissage automatique (Machine Learning)
+## Machine Learning
 
 ### Definition
 Google's ability to optimize campaigns with its algorithms.

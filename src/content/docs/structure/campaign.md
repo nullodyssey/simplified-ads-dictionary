@@ -3,7 +3,7 @@ title: Structure - Campaign
 description: Understanding campaigns in Google Ads structure
 ---
 
-## Campagne (Campaign)
+## Campaign
 
 ### Definition
 Groups multiple [ad groups](/structure/ad-group) with a common objective.
