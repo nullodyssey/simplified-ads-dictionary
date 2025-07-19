@@ -34,6 +34,13 @@ export default defineConfig({
 					]
 				},
 				{
+					label: 'Alphabetical Index',
+					translations: { fr: 'Index Alphabétique' },
+					items: [
+						{ label: 'All Terms A-Z', slug: 'alphabetical-index', translations: { fr: 'Tous les termes A-Z' } },
+					]
+				},
+				{
 					label: 'Metrics',
 					translations: { fr: 'Métriques' },
 					items: [
