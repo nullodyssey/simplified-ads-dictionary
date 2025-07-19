@@ -4,5 +4,9 @@ description: Comprendre les mots-clés dans Google Ads
 ---
 
 ## Mot-clé (Keyword)
-**Définition** : Terme ou expression que les utilisateurs tapent sur Google.  
-**Exemple** : mot-clé = 'chaussures de sport'.
+
+### Définition
+Terme ou expression que les utilisateurs tapent sur Google.
+
+### Exemple
+mot-clé = 'chaussures de sport'.
