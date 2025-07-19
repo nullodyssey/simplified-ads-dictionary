@@ -42,6 +42,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Metrics',
+					collapsed: true,
 					translations: { fr: 'Métriques' },
 					items: [
 						{ label: 'Impression', slug: 'metrics/impression', translations: { fr: 'Impression' } },
@@ -57,6 +58,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Bidding & Budget',
+					collapsed: true,
 					translations: { fr: 'Enchères & Budget' },
 					items: [
 						{ label: 'Max CPC', slug: 'bidding-budget/cpc-max', translations: { fr: 'CPC max' } },
@@ -71,6 +73,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Targeting',
+					collapsed: true,
 					translations: { fr: 'Ciblage' },
 					items: [
 						{ label: 'Keyword', slug: 'targeting/keyword', translations: { fr: 'Mot-clé' } },
@@ -88,6 +91,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Formats & Networks',
+					collapsed: true,
 					translations: { fr: 'Formats & Réseaux' },
 					items: [
 						{ label: 'Search Network', slug: 'formats-networks/search-network', translations: { fr: 'Réseau de Recherche' } },
@@ -102,6 +106,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Automation',
+					collapsed: true,
 					translations: { fr: 'Automatisation' },
 					items: [
 						{ label: 'Smart Bidding', slug: 'automation/smart-bidding', translations: { fr: 'Smart Bidding' } },
@@ -114,6 +119,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Structure',
+					collapsed: true,
 					translations: { fr: 'Structure' },
 					items: [
 						{ label: 'Account', slug: 'structure/account', translations: { fr: 'Compte' } },
@@ -124,6 +130,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Optimization',
+					collapsed: true,
 					translations: { fr: 'Optimisation' },
 					items: [
 						{ label: 'Recommendation', slug: 'optimization/recommendation', translations: { fr: 'Recommandation' } },
@@ -139,6 +146,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Technical',
+					collapsed: true,
 					translations: { fr: 'Technique' },
 					items: [
 						{ label: 'Final URL', slug: 'technical/final-url', translations: { fr: 'URL finale' } },
