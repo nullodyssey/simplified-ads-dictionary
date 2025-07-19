@@ -1,9 +1,7 @@
 ---
-title: Automatisation - Signaux
+title: Signaux
 description: Comprendre les signaux dans Google Ads
 ---
-
-## Signaux (Signals)
 
 ### Définition
 Données fournies à l'IA pour orienter l'optimisation.

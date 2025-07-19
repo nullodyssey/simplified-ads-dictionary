@@ -1,9 +1,7 @@
 ---
-title: Optimisation - KPI
+title: KPI
 description: Comprendre les KPI dans Google Ads
 ---
-
-## KPI (Key Performance Indicator)
 
 ### Définition
 Indicateur clé de performance pour mesurer l'efficacité d'une campagne.

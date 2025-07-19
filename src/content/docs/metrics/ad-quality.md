@@ -1,9 +1,7 @@
 ---
-title: Metrics - Ad Quality
+title: Ad Quality
 description: Understanding ad quality metrics in Google Ads
 ---
-
-## Ad Quality
 
 ### Definition
 Google's score that measures the relevance of your ad.

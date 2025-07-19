@@ -1,8 +1,10 @@
 ---
-title: Optimization - Conversion Tracking
+title: Conversion Tracking
 description: Understanding conversion tracking in Google Ads
 ---
 
-## Conversion Tracking
-**Definition**: Configuration to measure important actions.  
-**Example**: Form filled, purchase, call...
+### Definition
+Configuration to measure important actions.
+
+### Example
+Form filled, purchase, call...

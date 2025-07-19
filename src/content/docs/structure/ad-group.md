@@ -1,9 +1,7 @@
 ---
-title: Structure - Ad Group
+title: Ad Group
 description: Understanding ad groups in Google Ads structure
 ---
-
-## Ad Group
 
 ### Definition
 Contains ads and associated keywords.

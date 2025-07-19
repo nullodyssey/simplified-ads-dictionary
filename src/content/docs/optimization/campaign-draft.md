@@ -1,9 +1,7 @@
 ---
-title: Optimization - Campaign Draft
+title: Campaign Draft
 description: Understanding campaign drafts in Google Ads
 ---
-
-## Campaign Draft
 
 ### Definition
 Copy of existing campaign used to test modifications.

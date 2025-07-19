@@ -1,9 +1,7 @@
 ---
-title: Technique - Script Google Ads
+title: Script Google Ads
 description: Comprendre les scripts Google Ads
 ---
-
-## Script Google Ads (Google Ads Script)
 
 ### Définition
 Automatisations avancées via JavaScript dans Google Ads.

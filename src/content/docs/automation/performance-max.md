@@ -1,9 +1,7 @@
 ---
-title: Automation - Performance Max
+title: Performance Max
 description: Understanding Performance Max campaigns in Google Ads
 ---
-
-## Performance Max
 
 ### Definition
 All-in-one [campaign](/structure/campaign) using AI to optimize delivery.

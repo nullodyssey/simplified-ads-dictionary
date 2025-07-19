@@ -1,9 +1,7 @@
 ---
-title: Optimization - Campaign Experiment
+title: Campaign Experiment
 description: Understanding campaign experiments in Google Ads
 ---
-
-## Campaign Experiment
 
 ### Definition
 Test version of a campaign to observe performance.

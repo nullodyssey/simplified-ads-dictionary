@@ -1,9 +1,7 @@
 ---
-title: Technique - Paramètres UTM
+title: Paramètres UTM
 description: Comprendre les paramètres UTM dans Google Ads
 ---
-
-## Paramètres UTM (UTM Parameters)
 
 ### Définition
 Variables ajoutées à une URL pour suivre les performances dans Analytics.

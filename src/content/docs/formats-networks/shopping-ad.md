@@ -1,9 +1,7 @@
 ---
-title: Formats & Networks - Shopping Ad
+title: Shopping Ad
 description: Understanding Shopping Ads in Google Ads
 ---
-
-## Shopping Ad
 
 ### Definition
 Ad containing an image, price and product title.

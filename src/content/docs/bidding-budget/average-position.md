@@ -1,9 +1,7 @@
 ---
-title: Bidding & Budget - Average Position
+title: Average Position
 description: Understanding average position (deprecated) in Google Ads
 ---
-
-## Average Position
 
 ### Definition
 Former indicator of an ad's average position.

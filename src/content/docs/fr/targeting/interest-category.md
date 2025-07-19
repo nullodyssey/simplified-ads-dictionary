@@ -1,9 +1,7 @@
 ---
-title: Ciblage - Centre d'intérêt
+title: Centre d'intérêt
 description: Comprendre le ciblage par centres d'intérêt dans Google Ads
 ---
-
-## Centre d'intérêt (Interest Category)
 
 ### Définition
 Ciblage basé sur les thématiques régulièrement consultées.

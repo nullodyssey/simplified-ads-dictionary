@@ -1,9 +1,7 @@
 ---
-title: Technical - UTM Parameters
+title: UTM Parameters
 description: Understanding UTM parameters in Google Ads tracking
 ---
-
-## UTM Parameters
 
 ### Definition
 Variables added to a URL to track performance in Analytics.

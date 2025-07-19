@@ -1,8 +1,10 @@
 ---
-title: Targeting - Interest Category
+title: Interest Category
 description: Understanding interest-based targeting in Google Ads
 ---
 
-## Interest Category
-**Definition**: Targeting based on regularly consulted topics.  
-**Example**: Target sports enthusiasts.
+### Definition
+Targeting based on regularly consulted topics.
+
+### Example
+Target sports enthusiasts.

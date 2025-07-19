@@ -1,9 +1,7 @@
 ---
-title: Enchères & Budget - Position moyenne
+title: Position moyenne
 description: Comprendre la position moyenne dans Google Ads
 ---
-
-## Position moyenne (Average Position)
 
 ### Définition
 Ancien indicateur de la position moyenne d'une annonce.

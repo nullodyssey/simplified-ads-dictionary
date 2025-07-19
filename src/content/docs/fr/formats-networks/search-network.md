@@ -1,9 +1,7 @@
 ---
-title: Formats & Réseaux - Réseau de Recherche
+title: Réseau de Recherche
 description: Comprendre le Réseau de Recherche dans Google Ads
 ---
-
-## Réseau de Recherche (Search Network)
 
 ### Définition
 Annonces diffusées dans les résultats de recherche Google.

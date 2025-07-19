@@ -1,9 +1,7 @@
 ---
-title: Structure - Annonce
+title: Annonce
 description: Comprendre les annonces dans Google Ads
 ---
-
-## Annonce (Ad)
 
 ### Définition
 Message publicitaire diffusé aux utilisateurs.

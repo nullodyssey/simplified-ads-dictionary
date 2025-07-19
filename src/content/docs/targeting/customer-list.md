@@ -1,8 +1,10 @@
 ---
-title: Targeting - Customer List
+title: Customer List
 description: Understanding customer list targeting in Google Ads
 ---
 
-## Customer List
-**Definition**: Audience created from collected emails or phone numbers.  
-**Example**: Target newsletter subscribers.
+### Definition
+Audience created from collected emails or phone numbers.
+
+### Example
+Target newsletter subscribers.

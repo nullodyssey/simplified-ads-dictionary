@@ -1,8 +1,10 @@
 ---
-title: Targeting - Custom Intent
+title: Custom Intent
 description: Understanding custom intent audiences in Google Ads
 ---
 
-## Custom Intent
-**Definition**: Audiences created from keywords users actively search for.  
-**Example**: Target users searching for 'Bali holidays'.
+### Definition
+Audiences created from keywords users actively search for.
+
+### Example
+Target users searching for 'Bali holidays'

@@ -1,9 +1,7 @@
 ---
-title: Bidding & Budget - Automated Bidding
+title: Automated Bidding
 description: Understanding automated bidding in Google Ads
 ---
-
-## Automated Bidding
 
 ### Definition
 Google adjusts bids to maximize results.

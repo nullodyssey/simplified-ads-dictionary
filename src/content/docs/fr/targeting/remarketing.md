@@ -1,9 +1,7 @@
 ---
-title: Ciblage - Remarketing
+title: Remarketing
 description: Comprendre le remarketing dans Google Ads
 ---
-
-## Remarketing
 
 ### Définition
 Ciblage des utilisateurs ayant déjà visité votre site ou utilisé votre app.

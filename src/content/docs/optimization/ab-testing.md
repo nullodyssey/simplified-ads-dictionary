@@ -1,9 +1,7 @@
 ---
-title: Optimization - A/B Testing
+title: A/B Testing
 description: Understanding A/B testing in Google Ads optimization
 ---
-
-## A/B Testing
 
 ### Definition
 Comparative test between two variants to choose the best.

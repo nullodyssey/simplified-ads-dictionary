@@ -1,9 +1,7 @@
 ---
-title: Ciblage - Liste de clients
+title: Liste de clients
 description: Comprendre les listes de clients dans Google Ads
 ---
-
-## Liste de clients (Customer List)
 
 ### Définition
 Audience créée à partir d'emails ou numéros collectés.

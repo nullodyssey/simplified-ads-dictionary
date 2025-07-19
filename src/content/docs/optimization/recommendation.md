@@ -1,8 +1,10 @@
 ---
-title: Optimization - Recommendation
+title: Recommendation
 description: Understanding recommendations in Google Ads optimization
 ---
 
-## Recommendation
-**Definition**: Google's suggestions to improve performance.  
-**Example**: Add popular keywords.
+### Definition
+Google's suggestions to improve performance.
+
+### Example
+Add popular keywords.

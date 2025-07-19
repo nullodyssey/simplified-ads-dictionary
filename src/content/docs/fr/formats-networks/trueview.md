@@ -1,9 +1,7 @@
 ---
-title: Formats & Réseaux - TrueView
+title: TrueView
 description: Comprendre TrueView dans Google Ads
 ---
-
-## TrueView
 
 ### Définition
 Format où l'annonceur paie uniquement si la vidéo est vue.

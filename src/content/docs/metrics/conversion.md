@@ -1,9 +1,7 @@
 ---
-title: Metrics - Conversion
+title: Conversion
 description: Understanding conversion metrics in Google Ads
 ---
-
-## Conversion
 
 ### Definition
 Important action performed by the user (purchase, form submission...).

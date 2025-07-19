@@ -1,9 +1,7 @@
 ---
-title: Structure - Account
+title: Account
 description: Understanding Google Ads account structure
 ---
-
-## Account
 
 ### Definition
 Highest level in Google Ads, grouping all campaigns.

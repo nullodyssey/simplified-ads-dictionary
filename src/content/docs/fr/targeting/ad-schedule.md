@@ -1,9 +1,7 @@
 ---
-title: Ciblage - Calendrier de diffusion
+title: Calendrier de diffusion
 description: Comprendre la programmation d'annonces dans Google Ads
 ---
-
-## Calendrier de diffusion (Ad Schedule)
 
 ### Définition
 Permet de programmer quand vos annonces seront diffusées.

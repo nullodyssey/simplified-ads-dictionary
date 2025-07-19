@@ -1,9 +1,7 @@
 ---
-title: Structure - Ad
+title: Ad
 description: Understanding ads in Google Ads structure
 ---
-
-## Ad
 
 ### Definition
 Advertising message displayed to users.

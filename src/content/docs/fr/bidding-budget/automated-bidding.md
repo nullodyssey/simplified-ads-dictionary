@@ -1,9 +1,7 @@
 ---
-title: Enchères & Budget - Enchères automatiques
+title: Enchères automatiques
 description: Comprendre les enchères automatiques dans Google Ads
 ---
-
-## Enchères automatiques (Automated Bidding)
 
 ### Définition
 Google ajuste les enchères pour maximiser les résultats.

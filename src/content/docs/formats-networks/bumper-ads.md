@@ -1,9 +1,7 @@
 ---
-title: Formats & Networks - Bumper Ads
+title: Bumper Ads
 description: Understanding Bumper Ads in Google Ads
 ---
-
-## Bumper Ads
 
 ### Definition
 Short ads (6 seconds), non-skippable.

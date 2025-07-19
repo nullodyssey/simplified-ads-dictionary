@@ -1,9 +1,7 @@
 ---
-title: Formats & Réseaux - Réseau Display
+title: Réseau Display
 description: Comprendre le Réseau Display dans Google Ads
 ---
-
-## Réseau Display (Display Network)
 
 ### Définition
 Annonces visuelles diffusées sur les sites partenaires de Google.

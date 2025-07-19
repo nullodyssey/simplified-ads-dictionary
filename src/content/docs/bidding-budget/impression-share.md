@@ -1,9 +1,7 @@
 ---
-title: Bidding & Budget - Impression Share
+title: Impression Share
 description: Understanding impression share metrics in Google Ads
 ---
-
-## Impression Share
 
 ### Definition
 Frequency of display compared to available opportunities.

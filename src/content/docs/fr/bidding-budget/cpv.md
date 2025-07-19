@@ -1,9 +1,7 @@
 ---
-title: Enchères & Budget - Coût par vue (CPV)
+title: Coût par vue (CPV)
 description: Comprendre le CPV dans Google Ads
 ---
-
-## CPV (Cost Per View)
 
 ### Définition
 Coût payé pour une vue d'une annonce vidéo.

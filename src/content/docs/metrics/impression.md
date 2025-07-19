@@ -1,9 +1,7 @@
 ---
-title: Metrics - Impression
+title: Impression
 description: Understanding impression metrics in Google Ads
 ---
-
-## Impression
 
 ### Definition
 Number of times an ad has been displayed.

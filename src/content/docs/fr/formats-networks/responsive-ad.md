@@ -1,9 +1,7 @@
 ---
-title: Formats & Réseaux - Annonce Responsive
+title: Annonce Responsive
 description: Comprendre les annonces responsives dans Google Ads
 ---
-
-## Annonce Responsive (Responsive Ad)
 
 ### Définition
 Annonce qui s'adapte automatiquement à différents formats.

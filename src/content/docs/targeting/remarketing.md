@@ -1,9 +1,7 @@
 ---
-title: Targeting - Remarketing
+title: Remarketing
 description: Understanding remarketing in Google Ads
 ---
-
-## Remarketing
 
 ### Definition
 Targeting users who have already visited your site or used your app.

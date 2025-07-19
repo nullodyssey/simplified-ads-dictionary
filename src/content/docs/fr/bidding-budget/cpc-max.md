@@ -1,9 +1,7 @@
 ---
-title: Enchères & Budget - CPC max
+title: CPC max
 description: Comprendre le CPC max dans Google Ads
 ---
-
-## CPC max (Max CPC)
 
 ### Définition
 Montant maximal qu'un annonceur est prêt à payer pour un clic.

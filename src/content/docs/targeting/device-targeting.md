@@ -1,8 +1,10 @@
 ---
-title: Targeting - Device Targeting
+title: Device Targeting
 description: Understanding device targeting in Google Ads
 ---
 
-## Device Targeting
-**Definition**: Define which device types to show ads on.  
-**Example**: Mobile only.
+### Definition
+Define which device types to show ads on.  
+
+### Example
+Mobile only.

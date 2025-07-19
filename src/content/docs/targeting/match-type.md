@@ -1,9 +1,7 @@
 ---
-title: Targeting - Match Type
+title: Match Type
 description: Understanding keyword match types in Google Ads
 ---
-
-## Match Type
 
 ### Definition
 Defines the level of keyword matching.

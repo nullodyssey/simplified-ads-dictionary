@@ -1,9 +1,7 @@
 ---
-title: Enchères & Budget - Budget quotidien
+title: Budget quotidien
 description: Comprendre le budget quotidien dans Google Ads
 ---
-
-## Budget quotidien (Daily Budget)
 
 ### Définition
 Montant moyen dépensé par jour pour une campagne.

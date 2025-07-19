@@ -1,9 +1,7 @@
 ---
-title: Technical - Ad Extensions
+title: Ad Extensions
 description: Understanding ad extensions in Google Ads
 ---
-
-## Ad Extensions
 
 ### Definition
 Additional information displayed under your ads.

@@ -1,9 +1,7 @@
 ---
-title: Technical - Final URL
+title: Final URL
 description: Understanding final URLs in Google Ads
 ---
-
-## Final URL
 
 ### Definition
 Exact address of the page where the ad directs.

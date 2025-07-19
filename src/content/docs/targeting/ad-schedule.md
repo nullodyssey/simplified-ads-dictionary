@@ -1,9 +1,7 @@
 ---
-title: Targeting - Ad Schedule
+title: Ad Schedule
 description: Understanding ad scheduling in Google Ads
 ---
-
-## Ad Schedule
 
 ### Definition
 Allows programming when your ads will be shown.
