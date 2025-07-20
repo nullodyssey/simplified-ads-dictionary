@@ -7,12 +7,14 @@ export default defineConfig({
 	site: 'https://ads.coachingstack.io',
 	integrations: [
 		starlight({
+			components: {
+				Head: './src/components/Head.astro',
+			},
 			logo: {
 				light: './src/assets/logo-light.svg',
 				dark: './src/assets/logo-dark.svg',
 				alt: 'SimplyAds Logo',
 			},
-			plugins: [],
 			defaultLocale: 'root',
 			locales: {
 				root: {
