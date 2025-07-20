@@ -1,6 +1,7 @@
 ---
 title: Max CPC
 description: Understanding Max CPC in Google Ads bidding
+tags: ['bidding-budget', 'max cpc', 'cost per click', 'bid limit', 'manual bidding', 'google ads']
 ---
 
 ### Definition

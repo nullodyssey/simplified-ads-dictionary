@@ -1,6 +1,7 @@
 ---
 title: Account
 description: Understanding Google Ads account structure
+tags: ['structure', 'account', 'account structure', 'hierarchy', 'organization', 'google ads']
 ---
 
 ### Definition

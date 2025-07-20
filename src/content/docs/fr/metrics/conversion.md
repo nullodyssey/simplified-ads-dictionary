@@ -1,6 +1,7 @@
 ---
 title: Conversion
 description: Comprendre les conversions dans Google Ads
+tags: ['métriques', 'conversion', 'suivi conversions', 'google ads']
 ---
 
 ### Définition

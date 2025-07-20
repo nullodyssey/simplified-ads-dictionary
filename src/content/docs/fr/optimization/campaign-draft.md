@@ -1,6 +1,7 @@
 ---
 title: Brouillon de campagne
 description: Comprendre les brouillons de campagne dans Google Ads
+tags: ['optimisation', 'brouillon campagne', 'test modifications', 'copie campagne', 'versions test', 'expérimentation', 'google ads']
 ---
 
 ### Définition

@@ -1,6 +1,7 @@
 ---
 title: Campaign Draft
 description: Understanding campaign drafts in Google Ads
+tags: ['optimization', 'campaign draft', 'testing', 'experimentation', 'campaign management', 'google ads']
 ---
 
 ### Definition

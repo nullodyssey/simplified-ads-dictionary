@@ -1,6 +1,7 @@
 ---
 title: Alphabetical Index
 description: Complete alphabetical index of Google Ads dictionary terms
+tags: ['documentation', 'alphabetical index', 'complete list', 'all terms', 'dictionary index', 'google ads']
 ---
 
 # Alphabetical Index

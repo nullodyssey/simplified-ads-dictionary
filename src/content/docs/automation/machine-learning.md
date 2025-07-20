@@ -1,6 +1,7 @@
 ---
 title: Machine Learning
 description: Understanding machine learning in Google Ads
+tags: ['automation', 'machine learning', 'ai', 'algorithms', 'optimization', 'artificial intelligence', 'google ads']
 ---
 
 ### Definition

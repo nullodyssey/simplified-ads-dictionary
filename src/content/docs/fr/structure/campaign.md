@@ -1,6 +1,7 @@
 ---
 title: Campagne
 description: Comprendre les campagnes dans Google Ads
+tags: ['structure', 'campagne', 'groupes annonces', 'objectif campagne', 'organisation publicitaire', 'stratégie', 'google ads']
 ---
 
 ### Définition

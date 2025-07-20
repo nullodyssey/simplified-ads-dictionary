@@ -1,6 +1,7 @@
 ---
 title: Réseau Display
 description: Comprendre le Réseau Display dans Google Ads
+tags: ['formats-réseaux', 'réseau display', 'annonces visuelles', 'bannières', 'sites partenaires', 'publicité display', 'google ads']
 ---
 
 ### Définition

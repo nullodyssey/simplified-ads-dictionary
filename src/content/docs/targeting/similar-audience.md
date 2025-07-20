@@ -1,6 +1,7 @@
 ---
 title: Similar Audience
 description: Understanding similar audiences in Google Ads
+tags: ['targeting', 'similar audience', 'lookalike audience', 'audience expansion', 'machine learning', 'google ads']
 ---
 
 ### Definition

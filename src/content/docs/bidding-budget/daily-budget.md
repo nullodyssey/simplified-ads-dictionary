@@ -1,6 +1,7 @@
 ---
 title: Daily Budget
 description: Understanding daily budget in Google Ads campaigns
+tags: ['bidding-budget', 'daily budget', 'campaign budget', 'spend management', 'budget control', 'google ads']
 ---
 
 ### Definition

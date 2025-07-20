@@ -1,6 +1,7 @@
 ---
 title: Expérience de campagne
 description: Comprendre les expériences de campagne dans Google Ads
+tags: ['optimisation', 'expérience campagne', 'tests performance', 'version test', 'ciblage expérimental', 'amélioration', 'google ads']
 ---
 
 ### Définition

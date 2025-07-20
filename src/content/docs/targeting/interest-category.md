@@ -1,6 +1,7 @@
 ---
 title: Interest Category
 description: Understanding interest-based targeting in Google Ads
+tags: ['targeting', 'interest category', 'interest targeting', 'affinity audiences', 'behavioral targeting', 'google ads']
 ---
 
 ### Definition

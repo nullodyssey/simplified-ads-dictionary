@@ -1,6 +1,7 @@
 ---
 title: Introduction to the Google Ads Dictionary
 description: Your comprehensive guide to understanding Google Ads terminology
+tags: ['documentation', 'introduction', 'getting started', 'dictionary overview', 'guide', 'google ads']
 ---
 
 ## Welcome to the Google Ads Dictionary

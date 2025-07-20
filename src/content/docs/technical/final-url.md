@@ -1,6 +1,7 @@
 ---
 title: Final URL
 description: Understanding final URLs in Google Ads
+tags: ['technical', 'final url', 'destination url', 'landing page', 'url tracking', 'google ads']
 ---
 
 ### Definition

@@ -1,6 +1,7 @@
 ---
 title: Ad
 description: Understanding ads in Google Ads structure
+tags: ['structure', 'ad', 'advertisement', 'ad creative', 'ad copy', 'google ads']
 ---
 
 ### Definition

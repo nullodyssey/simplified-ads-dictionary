@@ -1,6 +1,7 @@
 ---
 title: Enchères automatiques
 description: Comprendre les enchères automatiques dans Google Ads
+tags: ['enchères-budget', 'enchères automatiques', 'optimisation automatique', 'campagnes intelligentes', 'stratégie enchères', 'google ads']
 ---
 
 ### Définition

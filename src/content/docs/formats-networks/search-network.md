@@ -1,6 +1,7 @@
 ---
 title: Search Network
 description: Understanding Search Network in Google Ads
+tags: ['formats-networks', 'search network', 'search ads', 'text ads', 'serp', 'google ads']
 ---
 
 ### Definition

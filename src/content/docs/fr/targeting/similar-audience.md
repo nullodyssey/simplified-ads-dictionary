@@ -1,6 +1,7 @@
 ---
 title: Audience similaire
 description: Comprendre les audiences similaires dans Google Ads
+tags: ['ciblage', 'audience similaire', 'lookalike audience', 'profils similaires', 'expansion audience', 'ciblage predictif', 'google ads']
 ---
 
 ### Définition

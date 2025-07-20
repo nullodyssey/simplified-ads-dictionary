@@ -1,6 +1,7 @@
 ---
 title: Shopping Ad
 description: Understanding Shopping Ads in Google Ads
+tags: ['formats-networks', 'shopping ads', 'product ads', 'google shopping', 'e-commerce', 'google ads']
 ---
 
 ### Definition

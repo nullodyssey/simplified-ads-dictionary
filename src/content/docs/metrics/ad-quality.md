@@ -1,6 +1,7 @@
 ---
 title: Ad Quality
 description: Understanding ad quality metrics in Google Ads
+tags: ['metrics', 'ad quality', 'quality score', 'ad relevance', 'optimization', 'google ads']
 ---
 
 ### Definition

@@ -1,6 +1,7 @@
 ---
 title: Budget quotidien
 description: Comprendre le budget quotidien dans Google Ads
+tags: ['enchères-budget', 'budget quotidien', 'budget campagne', 'dépenses journalières', 'gestion budget', 'google ads']
 ---
 
 ### Définition

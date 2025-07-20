@@ -1,6 +1,7 @@
 ---
 title: Impression Share
 description: Understanding impression share metrics in Google Ads
+tags: ['metrics', 'impression share', 'visibility metrics', 'search impression share', 'ad visibility', 'google ads']
 ---
 
 ### Definition

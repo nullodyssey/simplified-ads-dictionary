@@ -1,6 +1,7 @@
 ---
 title: Tag de conversion
 description: Comprendre les tags de conversion dans Google Ads
+tags: ['optimisation', 'tag conversion', 'code suivi', 'pixel conversion', 'suivi conversions', 'mesure performance', 'google ads']
 ---
 
 ### Définition

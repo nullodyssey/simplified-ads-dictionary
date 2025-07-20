@@ -1,6 +1,7 @@
 ---
 title: Ad Schedule
 description: Understanding ad scheduling in Google Ads
+tags: ['targeting', 'ad schedule', 'dayparting', 'time targeting', 'scheduling', 'google ads']
 ---
 
 ### Definition

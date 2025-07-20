@@ -1,6 +1,7 @@
 ---
 title: Recommendation
 description: Understanding recommendations in Google Ads optimization
+tags: ['optimization', 'recommendations', 'account improvement', 'suggestions', 'performance', 'google ads']
 ---
 
 ### Definition

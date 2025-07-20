@@ -1,6 +1,7 @@
 ---
 title: Conversion
 description: Understanding conversion metrics in Google Ads
+tags: ['metrics', 'conversion', 'goals', 'tracking', 'performance', 'google ads']
 ---
 
 ### Definition

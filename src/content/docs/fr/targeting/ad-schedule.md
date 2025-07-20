@@ -1,6 +1,7 @@
 ---
 title: Calendrier de diffusion
 description: Comprendre la programmation d'annonces dans Google Ads
+tags: ['ciblage', 'calendrier diffusion', 'programmation annonces', 'planification', 'horaires diffusion', 'ad scheduling', 'google ads']
 ---
 
 ### Définition

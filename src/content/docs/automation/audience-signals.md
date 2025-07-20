@@ -1,6 +1,7 @@
 ---
 title: Audience Signals
 description: Understanding audience signals in Google Ads automation
+tags: ['automation', 'audience signals', 'targeting', 'ai optimization', 'machine learning', 'google ads']
 ---
 
 ### Definition

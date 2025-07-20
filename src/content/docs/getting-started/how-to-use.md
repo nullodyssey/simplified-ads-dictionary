@@ -1,6 +1,7 @@
 ---
 title: How to Use This Dictionary
 description: Navigate and search the Google Ads dictionary effectively
+tags: ['documentation', 'tutorial', 'navigation', 'dictionary guide', 'how to', 'google ads']
 ---
 
 ## Navigation Methods

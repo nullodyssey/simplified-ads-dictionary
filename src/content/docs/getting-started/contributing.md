@@ -1,6 +1,7 @@
 ---
 title: Contributing to the Dictionary
 description: Help improve and expand the Google Ads dictionary
+tags: ['documentation', 'contributing', 'open source', 'community', 'help', 'google ads']
 ---
 
 ## Ways to Contribute

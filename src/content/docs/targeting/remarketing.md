@@ -1,6 +1,7 @@
 ---
 title: Remarketing
 description: Understanding remarketing in Google Ads
+tags: ['targeting', 'remarketing', 'retargeting', 'audience targeting', 'website visitors', 'google ads']
 ---
 
 ### Definition

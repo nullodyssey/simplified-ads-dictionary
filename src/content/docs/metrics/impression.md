@@ -1,6 +1,7 @@
 ---
 title: Impression
 description: Understanding impression metrics in Google Ads
+tags: ['metrics', 'impressions', 'ad views', 'reach', 'visibility', 'google ads']
 ---
 
 ### Definition

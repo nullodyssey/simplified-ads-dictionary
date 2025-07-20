@@ -1,6 +1,7 @@
 ---
 title: Signaux
 description: Comprendre les signaux dans Google Ads
+tags: ['automatisation', 'signaux', 'données optimisation', 'intelligence artificielle', 'audience', 'intention achat', 'google ads']
 ---
 
 ### Définition

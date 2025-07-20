@@ -1,6 +1,7 @@
 ---
 title: Liste de clients
 description: Comprendre les listes de clients dans Google Ads
+tags: ['ciblage', 'liste clients', 'audience propriétaire', 'emails clients', 'données first-party', 'reciblage clients', 'google ads']
 ---
 
 ### Définition

@@ -1,6 +1,7 @@
 ---
 title: Position moyenne
 description: Comprendre la position moyenne dans Google Ads
+tags: ['enchères-budget', 'position moyenne', 'classement annonce', 'part impression', 'positionnement', 'visibilité', 'google ads']
 ---
 
 ### Définition

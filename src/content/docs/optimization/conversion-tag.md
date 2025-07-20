@@ -1,6 +1,7 @@
 ---
 title: Conversion Tag
 description: Understanding conversion tags in Google Ads
+tags: ['technical', 'conversion tag', 'tracking', 'conversion tracking', 'implementation', 'google ads']
 ---
 
 ### Definition

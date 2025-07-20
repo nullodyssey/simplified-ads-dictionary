@@ -1,6 +1,7 @@
 ---
 title: Annonce Shopping
 description: Comprendre les annonces Shopping dans Google Ads
+tags: ['formats-réseaux', 'annonce shopping', 'google shopping', 'produits', 'e-commerce', 'annonces produit', 'google ads']
 ---
 
 ### Définition

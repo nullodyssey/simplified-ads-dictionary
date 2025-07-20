@@ -1,6 +1,7 @@
 ---
 title: Performance Max
 description: Understanding Performance Max campaigns in Google Ads
+tags: ['automation', 'performance max', 'pmax', 'campaign type', 'ai campaigns', 'google ads', 'omnichannel']
 ---
 
 ### Definition

@@ -1,6 +1,7 @@
 ---
 title: Ciblage par appareil
 description: Comprendre le ciblage par appareil dans Google Ads
+tags: ['ciblage', 'ciblage appareil', 'mobile', 'desktop', 'tablette', 'device targeting', 'google ads']
 ---
 
 ### Définition

@@ -1,6 +1,7 @@
 ---
 title: Part d'impression
 description: Comprendre la part d'impression dans Google Ads
+tags: ['enchères-budget', 'part impression', 'portée', 'visibilité', 'opportunités affichage', 'couverture', 'google ads']
 ---
 
 ### Définition

@@ -1,6 +1,7 @@
 ---
 title: Compte
 description: Comprendre la structure de compte dans Google Ads
+tags: ['structure', 'compte', 'structure compte', 'hiérarchie', 'organisation campagnes', 'niveau supérieur', 'google ads']
 ---
 
 ### Définition

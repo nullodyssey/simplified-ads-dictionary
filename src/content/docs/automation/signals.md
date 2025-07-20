@@ -1,6 +1,7 @@
 ---
 title: Signals
 description: Understanding signals in Google Ads automation
+tags: ['automation', 'signals', 'ai signals', 'optimization data', 'machine learning', 'google ads']
 ---
 
 ### Definition

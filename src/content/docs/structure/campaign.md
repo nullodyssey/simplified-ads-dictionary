@@ -1,6 +1,7 @@
 ---
 title: Campaign
 description: Understanding campaigns in Google Ads structure
+tags: ['structure', 'campaign', 'campaign management', 'organization', 'objectives', 'google ads']
 ---
 
 ### Definition

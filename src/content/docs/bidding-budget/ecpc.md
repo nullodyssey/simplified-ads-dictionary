@@ -1,6 +1,7 @@
 ---
 title: Enhanced CPC
 description: Understanding Enhanced CPC in Google Ads
+tags: ['bidding-budget', 'enhanced cpc', 'ecpc', 'smart bidding', 'automated bidding', 'google ads']
 ---
 
 ### Definition

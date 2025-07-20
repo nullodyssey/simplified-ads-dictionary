@@ -1,6 +1,7 @@
 ---
 title: Score d'optimisation
 description: Comprendre le score d'optimisation dans Google Ads
+tags: ['optimisation', 'score optimisation', 'note google', 'potentiel amélioration', 'évaluation compte', 'recommandations', 'google ads']
 ---
 
 ### Définition

@@ -1,6 +1,7 @@
 ---
 title: Qualité de l'annonce
 description: Comprendre la qualité de l'annonce dans Google Ads
+tags: ['métriques', 'qualité annonce', 'pertinence', 'annonces', 'google ads']
 ---
 
 ### Définition

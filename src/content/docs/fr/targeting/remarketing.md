@@ -1,6 +1,7 @@
 ---
 title: Remarketing
 description: Comprendre le remarketing dans Google Ads
+tags: ['ciblage', 'remarketing', 'reciblage', 'retargeting', 'visiteurs site', 'audience chaude', 'google ads']
 ---
 
 ### Définition

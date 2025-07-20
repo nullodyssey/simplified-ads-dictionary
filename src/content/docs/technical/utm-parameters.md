@@ -1,6 +1,7 @@
 ---
 title: UTM Parameters
 description: Understanding UTM parameters in Google Ads tracking
+tags: ['technical', 'utm parameters', 'url tracking', 'analytics tracking', 'campaign tracking', 'google ads']
 ---
 
 ### Definition

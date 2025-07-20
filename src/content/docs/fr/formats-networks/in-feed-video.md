@@ -1,6 +1,7 @@
 ---
 title: In-Feed Video
 description: Comprendre les annonces In-Feed Video dans Google Ads
+tags: ['formats-réseaux', 'in-feed video', 'annonces youtube', 'vignette sponsor', 'recommandations vidéo', 'youtube ads', 'google ads']
 ---
 
 ### Définition

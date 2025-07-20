@@ -1,6 +1,7 @@
 ---
 title: eCPC
 description: Comprendre l'eCPC dans Google Ads
+tags: ['enchères-budget', 'ecpc', 'cpc amélioré', 'cpc ajusté', 'enchères automatiques', 'optimisation conversions', 'google ads']
 ---
 
 ### Définition

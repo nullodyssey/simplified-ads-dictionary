@@ -1,6 +1,7 @@
 ---
 title: KPI
 description: Understanding KPIs in Google Ads optimization
+tags: ['optimization', 'kpi', 'key performance indicators', 'metrics', 'performance measurement', 'google ads']
 ---
 
 ### Definition

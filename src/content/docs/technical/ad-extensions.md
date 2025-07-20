@@ -1,6 +1,7 @@
 ---
 title: Ad Extensions
 description: Understanding ad extensions in Google Ads
+tags: ['technical', 'ad extensions', 'sitelinks', 'call extensions', 'ad enhancement', 'google ads']
 ---
 
 ### Definition

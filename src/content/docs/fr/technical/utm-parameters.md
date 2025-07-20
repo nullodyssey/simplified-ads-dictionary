@@ -1,6 +1,7 @@
 ---
 title: Paramètres UTM
 description: Comprendre les paramètres UTM dans Google Ads
+tags: ['technique', 'paramètres utm', 'suivi analytics', 'variables url', 'suivi campagne', 'mesure trafic', 'google ads']
 ---
 
 ### Définition
