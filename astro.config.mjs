@@ -7,6 +7,11 @@ export default defineConfig({
 	site: 'https://ads.coachingstack.io',
 	integrations: [
 		starlight({
+			logo: {
+				light: './src/assets/logo-light.svg',
+				dark: './src/assets/logo-dark.svg',
+				alt: 'SimplyAds Logo',
+			},
 			plugins: [],
 			defaultLocale: 'root',
 			locales: {
@@ -20,8 +25,8 @@ export default defineConfig({
 				}
 			},
 			title: {
-				en: 'SimplyAds - Dictionary',
-				fr: 'SimplyAds - Dictionnaire',
+				en: 'SimplyAds',
+				fr: 'SimplyAds',
 			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/nullodyssey/simplified-ads-dictionary' }],
 			sidebar: [
