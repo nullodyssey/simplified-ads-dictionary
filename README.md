@@ -1,54 +1,121 @@
-# Starlight Starter Kit: Basics
+# Simplified Ads Dictionary
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+A bilingual (English/French) Google Ads dictionary documentation site that provides a searchable, user-friendly reference for advertising terminology.
+
+## Description
+
+The Simplified Ads Dictionary is a comprehensive documentation site designed to help marketers, advertisers, and digital professionals understand Google Ads terminology across both English and French languages. Built with Astro and Starlight, this project transforms a CSV data source of advertising terms into an accessible, searchable web interface.
+
+### Features
+
+- **Bilingual Support**: Complete English and French localization
+- **Searchable Interface**: Powered by Starlight's built-in search functionality
+- **Structured Content**: Organized advertising terms with categories, definitions, and examples
+- **Modern Design**: Enhanced styling with starlight-theme-obsidian
+- **Responsive Layout**: Optimized for desktop and mobile viewing
+- **Static Site Generation**: Fast loading times with Astro's optimized builds
+
+## Project Structure
 
 ```
-npm create astro@latest -- --template starlight
-```
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/withastro/starlight&create_from_path=examples/basics)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fwithastro%2Fstarlight%2Ftree%2Fmain%2Fexamples%2Fbasics&project-name=my-starlight-docs&repository-name=my-starlight-docs)
-
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro + Starlight project, you'll see the following folders and files:
-
-```
-.
-├── public/
+simplified-ads-dictionary/
+├── public/                          # Static assets (favicon, etc.)
 ├── src/
-│   ├── assets/
+│   ├── assets/                      # Images and media files
 │   ├── content/
-│   │   └── docs/
-│   └── content.config.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
+│   │   └── docs/                    # Documentation content
+│   │       ├── en/                  # English content
+│   │       └── fr/                  # French content
+│   └── content.config.ts            # Content collections configuration
+├── astro.config.mjs                 # Astro configuration with Starlight integration
+├── package.json                     # Dependencies and scripts
+└── tsconfig.json                    # TypeScript configuration
 ```
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
+### Key Architecture Components
 
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
+- **Framework**: Astro + Starlight documentation framework
+- **Theme**: `starlight-theme-obsidian` for enhanced styling
+- **Internationalization**: Configured for English (default) and French locales
+- **Content Management**: Markdown/MDX files with locale-specific organization
+- **Data Source**: Structured CSV containing advertising terminology
 
-Static assets, like favicons, can be placed in the `public/` directory.
+## Setup
 
-## 🧞 Commands
+### Prerequisites
 
-All commands are run from the root of the project, from a terminal:
+- [Bun](https://bun.sh/) (recommended) or Node.js 18+
+- Git
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+### Installation
 
-## 👀 Want to learn more?
+1. Clone the repository:
+```bash
+git clone https://github.com/nullodyssey/simplified-ads-dictionary.git
+cd simplified-ads-dictionary
+```
 
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+2. Install dependencies:
+```bash
+bun install
+```
+
+3. Start the development server:
+```bash
+bun run dev
+```
+
+4. Open your browser and navigate to `http://localhost:4321`
+
+### Development Commands
+
+| Command           | Description                              |
+|-------------------|------------------------------------------|
+| `bun run dev`     | Start development server at localhost:4321 |
+| `bun run build`   | Build production site to ./dist/        |
+| `bun run preview` | Preview production build locally         |
+| `bun run astro`   | Run Astro CLI commands                   |
+
+### Configuration
+
+- **Site Configuration**: Modify `astro.config.mjs` for site settings, sidebar navigation, and social links
+- **Content Collections**: Configure content schema in `src/content.config.ts`
+- **Styling**: Customize theme settings and styles within the Starlight configuration
+
+## Contribute
+
+We welcome contributions to improve the Simplified Ads Dictionary! Here's how you can help:
+
+### Contributing Guidelines
+
+1. **Fork the repository** and create your feature branch from `main`
+2. **Make your changes** following the existing code style and conventions
+3. **Test your changes** by running the development server and verifying functionality
+4. **Update documentation** if your changes affect the user experience or setup process
+5. **Submit a pull request** with a clear description of your improvements
+
+### Types of Contributions
+
+- **Content**: Add new advertising terms, improve definitions, or enhance translations
+- **Features**: Implement new functionality or improve existing features
+- **Bug Fixes**: Identify and resolve issues with the site or documentation
+- **Documentation**: Improve setup instructions, add examples, or clarify usage
+- **Translations**: Enhance French translations or add support for additional languages
+
+### Development Best Practices
+
+- Follow the existing file structure and naming conventions
+- Ensure bilingual content is properly synchronized
+- Test changes across both English and French versions
+- Maintain responsive design principles
+- Write clear commit messages
+
+## Contributors
+
+This project is maintained by the community. We appreciate all contributions, whether they're code improvements, content additions, or bug reports.
+
+Special thanks to all contributors who have helped make this resource valuable for the advertising community.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).

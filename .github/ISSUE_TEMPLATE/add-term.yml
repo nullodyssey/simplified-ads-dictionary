@@ -1,0 +1,128 @@
+name: Add New Term
+description: Suggest a new advertising term to add to the dictionary
+title: "[NEW TERM] "
+labels: ["enhancement", "content"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing to the Simplified Ads Dictionary! Please fill out the information below to suggest a new advertising term.
+
+  - type: input
+    id: term
+    attributes:
+      label: "Term"
+      description: "The advertising term you want to add"
+      placeholder: "e.g., Click-Through Rate"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category"
+      description: "Select the most appropriate category for this term"
+      options:
+        - Structure
+        - Targeting
+        - Metrics
+        - Bidding
+        - Keywords
+        - Campaigns
+        - Ad Extensions
+        - Audiences
+        - Conversion Tracking
+        - Analytics
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: definition
+    attributes:
+      label: "Definition"
+      description: "Plain language explanation of the term"
+      placeholder: "Provide a clear, accessible definition that non-experts can understand"
+    validations:
+      required: true
+
+  - type: textarea
+    id: example
+    attributes:
+      label: "Example"
+      description: "Concrete, practical example"
+      placeholder: "Provide a real-world example of how this term is used"
+    validations:
+      required: true
+
+  - type: textarea
+    id: related_terms
+    attributes:
+      label: "Related Terms"
+      description: "List of connected concepts (comma-separated)"
+      placeholder: "e.g., Impressions, Cost-Per-Click, Ad Rank"
+
+  - type: checkboxes
+    id: language
+    attributes:
+      label: "Language"
+      description: "Which language(s) should this term be added for?"
+      options:
+        - label: English
+        - label: French
+        - label: Both (bilingual)
+
+  - type: input
+    id: source
+    attributes:
+      label: "Source"
+      description: "Where did you encounter this term?"
+      placeholder: "e.g., Google Ads interface, Google documentation, industry blog"
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: "Priority"
+      description: "How important is this term?"
+      options:
+        - High - Essential term widely used
+        - Medium - Common term that would be helpful
+        - Low - Nice to have, less commonly used
+    validations:
+      required: true
+
+  - type: input
+    id: french_term
+    attributes:
+      label: "French Term (if applicable)"
+      description: "The French equivalent if different from English"
+      placeholder: "Leave blank if the same as English term"
+
+  - type: textarea
+    id: french_definition
+    attributes:
+      label: "French Definition (if applicable)"
+      description: "Translation of the definition in French"
+      placeholder: "Provide French translation if requesting bilingual support"
+
+  - type: textarea
+    id: french_example
+    attributes:
+      label: "French Example (if applicable)"
+      description: "Translated example in French"
+      placeholder: "Provide French example if requesting bilingual support"
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      description: "Please confirm the following:"
+      options:
+        - label: I have searched existing terms to ensure this is not a duplicate
+          required: true
+        - label: The definition is clear and accessible to non-experts
+          required: true
+        - label: The example is practical and realistic
+          required: true
+        - label: I have included related terms where applicable
+          required: false

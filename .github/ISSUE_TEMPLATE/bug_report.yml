@@ -1,0 +1,179 @@
+name: Bug Report
+description: Report a bug or issue with the Simplified Ads Dictionary
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the information below to help us understand and fix the issue.
+
+  - type: textarea
+    id: bug_description
+    attributes:
+      label: "Bug Description"
+      description: "A clear and concise description of what the bug is"
+      placeholder: "Describe what happened and what you expected to happen"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps_to_reproduce
+    attributes:
+      label: "Steps to Reproduce"
+      description: "Steps to reproduce the behavior"
+      placeholder: |
+        1. Go to '...'
+        2. Click on '...'
+        3. Scroll down to '...'
+        4. See error
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected_behavior
+    attributes:
+      label: "Expected Behavior"
+      description: "A clear and concise description of what you expected to happen"
+      placeholder: "What should have happened instead?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual_behavior
+    attributes:
+      label: "Actual Behavior"
+      description: "What actually happened"
+      placeholder: "Describe what actually occurred"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: bug_type
+    attributes:
+      label: "Bug Type"
+      description: "What type of issue is this?"
+      options:
+        - UI/Visual Issue
+        - Search Functionality
+        - Navigation Problem
+        - Content Display Error
+        - Translation Issue
+        - Performance Issue
+        - Mobile/Responsive Issue
+        - Accessibility Issue
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: "Severity"
+      description: "How severe is this bug?"
+      options:
+        - Critical - Site is unusable
+        - High - Major functionality broken
+        - Medium - Some functionality affected
+        - Low - Minor issue, workaround available
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: affected_language
+    attributes:
+      label: "Affected Language(s)"
+      description: "Which language version(s) have this issue?"
+      options:
+        - label: English
+        - label: French
+        - label: Both languages
+
+  - type: input
+    id: url
+    attributes:
+      label: "Page URL"
+      description: "URL where the bug occurred"
+      placeholder: "https://..."
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: "Browser"
+      description: "Which browser are you using?"
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Opera
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: browser_version
+    attributes:
+      label: "Browser Version"
+      description: "What version of the browser?"
+      placeholder: "e.g., Chrome 120.0.6099.109"
+
+  - type: dropdown
+    id: device_type
+    attributes:
+      label: "Device Type"
+      description: "What type of device are you using?"
+      options:
+        - Desktop
+        - Mobile
+        - Tablet
+    validations:
+      required: true
+
+  - type: input
+    id: operating_system
+    attributes:
+      label: "Operating System"
+      description: "What operating system are you using?"
+      placeholder: "e.g., Windows 11, macOS 14.1, iOS 17.1, Android 14"
+
+  - type: input
+    id: screen_resolution
+    attributes:
+      label: "Screen Resolution (if relevant)"
+      description: "Screen resolution or viewport size"
+      placeholder: "e.g., 1920x1080, 375x667 (mobile)"
+
+  - type: textarea
+    id: console_errors
+    attributes:
+      label: "Console Errors"
+      description: "Any error messages from browser console (F12 → Console tab)"
+      placeholder: "Paste any error messages here"
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: "Screenshots or Videos"
+      description: "Add screenshots or screen recordings if helpful"
+      placeholder: "Drag and drop images here or paste URLs"
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: "Additional Context"
+      description: "Any other context about the problem"
+      placeholder: "Add any other context, workarounds you've tried, or related issues"
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Checklist"
+      description: "Please confirm:"
+      options:
+        - label: I have searched existing issues to ensure this is not a duplicate
+          required: true
+        - label: I have provided clear steps to reproduce the issue
+          required: true
+        - label: I have tested this on the latest version of the site
+          required: true
