@@ -1,36 +1,62 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
+title: Bienvenue sur SimplyAds
+description: The Google Ads dictionary to better understand each term, each metric, each strategy.
 template: splash
 hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
+  tagline: Demystifying Google Ads. One Word at a Time.
   actions:
-    - text: Example Guide
+    - text: Getting Started
       link: /getting-started/introduction/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
+      icon: open-book
+    - text: Contribute on GitHub
+      link: https://github.com/nullodyssey/simplified-ads-dictionary
+      icon: github
       variant: minimal
 ---
 
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-## Next steps
+## What is SimplyAds?
+
+SimplyAds is a comprehensive, bilingual Google Ads dictionary designed to make digital advertising accessible to everyone. Whether you're a marketing professional, small business owner, or just getting started with online advertising, our simplified definitions and real-world examples will help you master Google Ads terminology.
+
+## Why Use Our Dictionary?
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
+	<Card title="Simplified Definitions" icon="information">
+		Complex advertising jargon explained in plain English with practical examples that make sense.
 	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
+	<Card title="Bilingual Support" icon="translate">
+		Available in both English and French to serve a global community of advertisers.
 	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
+	<Card title="Comprehensive Coverage" icon="list-format">
+		Over 100+ terms covering metrics, bidding strategies, targeting options, and campaign optimization.
 	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
+	<Card title="Real Examples" icon="document">
+		Every term includes concrete examples showing how concepts apply in actual advertising scenarios.
+	</Card>
+</CardGrid>
+
+## Key Categories
+
+Our dictionary covers essential Google Ads concepts across these main areas:
+
+- **Metrics & KPIs**: [CPC](/metrics/cpc/), [CTR](/metrics/ctr/), [ROAS](/metrics/roas/), [conversion rates](/metrics/conversion-rate/), and [performance indicators](/optimization/kpi/)
+- **Bidding & Budget**: [Automated bidding](/bidding-budget/automated-bidding/), [CPC max](/bidding-budget/cpc-max/), [daily budgets](/bidding-budget/daily-budget/), and cost optimization  
+- **Targeting**: [Keywords](/targeting/keyword/), [match types](/targeting/match-type/), [audiences](/targeting/audience/), and [demographic targeting](/targeting/geolocation/)
+- **Campaign Types**: [Search](/formats-networks/search-network/), [Display](/formats-networks/display-network/), [Shopping](/formats-networks/shopping-ad/), Video, and App campaigns
+- **Optimization**: [Quality Score](/metrics/ad-quality/), [ad extensions](/technical/ad-extensions/), landing page experience
+
+## Quick Start Guide
+
+<CardGrid>
+	<Card title="Browse Terms" icon="open-book">
+		[Explore our complete dictionary](/alphabetical-index/) of Google Ads terminology with examples.
+	</Card>
+	<Card title="Search by Category" icon="list-format">
+		Find terms organized by [metrics](/metrics/), [bidding](/bidding-budget/), [targeting](/targeting/), and campaign types.
+	</Card>
+	<Card title="Contribute" icon="github">
+		[Help improve the dictionary](/getting-started/contributing/) by contributing new terms or better definitions.
 	</Card>
 </CardGrid>
