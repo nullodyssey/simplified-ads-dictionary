@@ -1,6 +1,7 @@
 name: Bug Report
 description: Report a bug or issue with the Simplified Ads Dictionary
 title: "[BUG] "
+assignees: ['nullodyssey']
 labels: ["bug"]
 body:
   - type: markdown

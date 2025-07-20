@@ -1,6 +1,7 @@
 name: Add New Term
 description: Suggest a new advertising term to add to the dictionary
 title: "[NEW TERM] "
+assignees: ['nullodyssey']
 labels: ["enhancement", "content"]
 body:
   - type: markdown
